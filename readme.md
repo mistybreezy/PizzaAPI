@@ -1,7 +1,5 @@
 
 # PizzaAPI - Pair Programming
-## Contributors
-![alt text](https://github.com/mistybreezy/PizzaAPI/blob/master/contributors.png?raw=true)
 ## Table of Contents
 1. [Instruction](#introductions)
 2. [Demo Video](#demo)
@@ -12,6 +10,9 @@
 5. [Pair Programming](#pair-programming)
 6. [Code Craftsmanship](#code-craftsmanship)
 7. [Other Stories](#other-stories)
+
+## Contributors
+![alt text](https://github.com/mistybreezy/PizzaAPI/blob/master/contributors.png?raw=true)
 
 ## Instructions<a name="introductions"></a>
 ### Running our program
