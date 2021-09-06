@@ -1,6 +1,6 @@
 
 # PizzaAPI - Pair Programming
-# Contributors
+## Contributors
 ![alt text](https://github.com/mistybreezy/PizzaAPI/blob/master/contributors.png?raw=true)
 ## Table of Contents
 1. [Instruction](#introductions)
