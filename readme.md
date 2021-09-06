@@ -1,6 +1,7 @@
 
-# Assignment 2: Pair Programming
-
+# PizzaAPI - Pair Programming
+# Contributors
+![alt text](https://github.com/mistybreezy/PizzaAPI/blob/master/contributors.png?raw=true)
 ## Table of Contents
 1. [Instruction](#introductions)
 2. [Demo Video](#demo)
