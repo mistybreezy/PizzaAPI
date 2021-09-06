@@ -11,9 +11,6 @@
 6. [Code Craftsmanship](#code-craftsmanship)
 7. [Other Stories](#other-stories)
 
-## Contributors
-![alt text](https://github.com/mistybreezy/PizzaAPI/blob/master/contributors.png?raw=true)
-
 ## Instructions<a name="introductions"></a>
 ### Running our program
 ```
@@ -746,3 +743,6 @@ Also we deleted all the commentted codes. We were really suprised that the instr
    Later, we found that instead of using pytest directly, we use the
    following command:  
    ``` python3 -m pytest--cov-config=.coverageforclasstest --cov-report term --cov=. tests/class_tests ```
+
+## Contributors
+![alt text](https://github.com/mistybreezy/PizzaAPI/blob/master/contributors.png?raw=true)
